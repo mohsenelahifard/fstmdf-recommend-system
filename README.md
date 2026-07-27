@@ -58,7 +58,7 @@ pip install -r requirements.txt
 3. Run the main Python script:
 
    ```bash
-   python main.py
+   python fstdmf.py
    ```
 
 4. The script will automatically:
